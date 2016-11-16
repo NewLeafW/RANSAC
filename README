@@ -1,3 +1,7 @@
+有个奇怪的现象：当numSamples的值超过92682且numOutliers值为0时，运算会进入死机？状态。
+
+
+
 http://yanivresearch.info/#software
 
 Ziv Yaniv, זיו יניב (ORCID, ResearchID)
